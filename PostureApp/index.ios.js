@@ -2,5 +2,4 @@ import { AppRegistry } from 'react-native';
 import App from './src/app';
 
 
-
-AppRegistry.registerComponent('PostureApp', () => App );
+AppRegistry.registerComponent('PostureApp', () => App);
